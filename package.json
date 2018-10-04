@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Parallel tests Cucumber JS protractor3.0  =============",
   "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/protractor conf.js"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
