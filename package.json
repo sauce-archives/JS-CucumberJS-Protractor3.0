@@ -7,7 +7,7 @@
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
     "cucumber": "^0.9.5",
-    "protractor": "3.0.0",
+    "protractor": "5.4.1",
     "protractor-cucumber-framework": "^0.3.4",
     "protractor-cucumber-junit": "latest"
   }
